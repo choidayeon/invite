@@ -8,5 +8,6 @@
 
 #main .tit_wrap img{width:70%;display: block;opacity: 0;transform:translateX(-20px);transition:all 1.5s;}
 #main .tit_wrap img:nth-child(2){transition-delay: .5s;}
-#main .tit_wrap img:nth-child(3){transition-delay: 1s;}
+#main .tit_wrap img:nth-child(3){transition-delay: 1s; margin-top:20px;}
 #main .tit_wrap img.fixed {opacity:1;transform:translateX(0px);}
+.map_txt{margin-bottom:70px; }
