@@ -1,2 +1,5 @@
 @charset utf-8;
 
+  html,body{width:100%; max-width:800px; min-width:320px; margin:0 auto; padding:0; height:auto;}
+  #main{width:100%; max-width:800px; min-width:320px; margin:0 auto; padding:0; height:auto;}
+  .main_img{width:100%;}
