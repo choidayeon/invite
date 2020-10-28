@@ -11,3 +11,8 @@
 #main .tit_wrap img:nth-child(3){transition-delay: 1s; margin-top:20px;}
 #main .tit_wrap img.fixed {opacity:1;transform:translateX(0px);}
 .map_txt{margin-bottom:70px; }
+
+.call{padding:0; margin:0;  list-style:none; width:90%; margin:0 auto 100px; overflow:hidden;}
+.call li{padding:0; margin:0; list-style:none; float:left; width:25%; }
+.call li a{display:block;}
+.call li a img{width:100%; }
